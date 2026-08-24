@@ -1,5 +1,5 @@
 import utils as ut
-
+agrupamento_musculares = ["Peito","Costa","Quadriceps","Posterior","Biceps","Triceps","Abdomen","Antebraço","Panturrilha","Gluteo"]
 def adicionar_exercicio(exercicios_adicionados):
     print("\n=== [ Adicionar Exercício ] ===")
     tipo_treino = str(input("Digite a divisão/tipo de treino: "))
